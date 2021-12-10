@@ -1,0 +1,28 @@
+name: bowl
+channels:
+- conda-forge
+- robostack
+- anaconda
+- intel
+- rapidsai
+dependencies:
+- hvplot
+- numpy
+- pandas
+- holoviews
+- scikit-learn
+- cuml
+- scipy
+- ipython
+- plotly
+- seaborn
+- ipywidgets
+- ipykernel
+- matplotlib
+- spyder
+- notebook
+- keyboard
+- pip
+- pip:
+  - sportsipy
+
